@@ -1,5 +1,5 @@
 #This software has distribution limitations described in the LICENSE file
-#BurbnBot IG API wrapper by https://cudos.tools
+#BurbnBot IG API wrapper by github.com/Va1a
 
 import requests
 import json
